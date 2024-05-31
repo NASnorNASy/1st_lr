@@ -1,0 +1,28 @@
+.center {
+    width: 50%;
+    margin: auto;
+    border: 1px grey solid;
+    color: white;
+    padding: 20px;
+}
+
+.submit {
+    text-align: center;
+    background: none;
+}
+
+button {
+    background: none;
+    color: white;
+    border-color: white;
+    width: 500px;
+}
+#jj{
+    width: 300px;
+    height: 20px;
+    color: black;
+}
+textarea{
+    width: 450px;
+    height: 40px;
+}
